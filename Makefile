@@ -53,8 +53,7 @@ DIST          = /usr/share/qt4/mkspecs/common/unix.conf \
 		/usr/share/qt4/mkspecs/common/gcc-base.conf \
 		/usr/share/qt4/mkspecs/common/gcc-base-unix.conf \
 		/usr/share/qt4/mkspecs/common/g++-base.conf \
-		/usr/share/qt4/mkspecs/common/g++-unix.conf \
-		/usr/share/qt4/mkspecs/qconfig.pri \
+
 
 		../untitled/untitled.pro
 QMAKE_TARGET  = untitled
